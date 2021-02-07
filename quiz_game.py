@@ -5,7 +5,7 @@ question4 = (" Which hockey team did Wayne Gretzky play for in the ‘80s?")
 question5 = ("Which Williams sister has won more Grand Slam titles? ")
 question6 = ("How many soccer players should each team have on the field at the start of each match? ")
 question7 = ("Who is the captain of the Toronto Raptors?")
-question8 = ("What was the first sport? ")
+question8 = ("What was the first sport created? ")
 questions = [question1, question2, question3, question4, question5, question6, question7, question8]
 
 answer1 = ("5")
